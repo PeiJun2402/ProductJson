@@ -1,4 +1,4 @@
- { "poductArrays" : [
+"poductArrays" : [
     {"id":1,"nameTW":"均衡打底積學草化妝水","nameEN":"Balanced Primer Toner","mL":200,"price":653,"skintype":["乾癢肌","中性肌","油田肌","全產品"],"info":"均衡打底積學草化妝水，專為乾癢肌、中性肌及油田肌設計，積學草成分提供深層舒緩和滋潤，調節水油平衡。有效針對不同肌膚需求，讓肌膚自然清新。","img":"../../public/image/Balanced Primer Toner IMG.jpg","url":"./BalancedPrimerToner.html?id=1","recommend":true,"addToCart":false},
     {"id":2,"nameTW":"1.5%水楊酸精華液","nameEN":"1% Salicylic Acid Serum","mL":100,"price":990,"skintype":["中性肌","油田肌","全產品"],"info":"1.5%水楊酸精華液，含高效水楊酸，深入清潔毛孔，去除老廢角質，改善肌膚質地。有效控油、縮小毛孔，讓肌膚呈現清透光滑的自然光采。","img":"../../public/image/Salicylic Acid Serum IMG.jpg","url":"./SalicylicAcidSerum.html?id=2","recommend":true,"addToCart":false},
     {"id":3,"nameTW":"淨潤B5修護乳液","nameEN":"Pantothenic acid Repair Lotion","mL":150,"price":792,"skintype":["乾癢肌","中性肌","全產品"],"info":"淨潤B5修護乳液，富含維他命B5，為肌膚提供深層滋潤和修護，舒緩乾燥，增強肌膚屏障功能。令肌膚保持柔嫩光滑。","img":"../../public/image/Pantothenic acid Repair Lotio IMG.jpg","url":"./PantothenicAcidRepairLotion.html?id=3","recommend":true,"addToCart":false},
@@ -9,4 +9,3 @@
     {"id":8,"nameTW":"菸鹼醯胺保濕面膜","nameEN":"B3 Hydrating Facial Mask","mL":1,"price":637,"skintype":["乾癢肌","中性肌","全產品"],"info":"菸鹼醯胺保濕面膜，含菸鹼醯胺成分，提供深層滋潤，增強肌膚屏障功能，改善膚色不均。有效舒緩乾燥，使肌膚感覺水潤柔嫩，恢復舒適感。","img":"../../public/image/B3 Hydrating Facial Mask IMG.jpg","url":"./B3HydratingFacialMask.html?id=8","recommend":true,"addToCart":false}
      
 ]
- }
